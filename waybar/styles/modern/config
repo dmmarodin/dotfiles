@@ -14,11 +14,20 @@
     "custom/menu",
     "hyprland/workspaces",
 
+    // ToolBox
+    "group/sysinfo",
+    "power-profiles-daemon",
+    "custom/hyprshade",
+    "custom/hypridle",
+
     // "wlr/taskbar",
+    "hyprland/window",
     "custom/mediaplayer"
   ],
   "modules-center": ["clock"],
   "modules-right": [
+    "custom/updates",
+    "custom/weather",
 
     // Tray
     "pulseaudio",
@@ -32,4 +41,3 @@
     "custom/power"
   ]
 }
-
