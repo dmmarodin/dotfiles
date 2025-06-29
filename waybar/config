@@ -3,7 +3,7 @@
   "position": "top",
   "margin-top": 5,
   "margin-left": 5,
-  "margin-bottom": 5,
+  "margin-bottom": 0,
   "margin-right": 5,
   "height": 30,
   "gtk-layer-shell": true,
@@ -17,8 +17,9 @@
     // "wlr/taskbar",
     "custom/mediaplayer"
   ],
-  "modules-center": ["clock"],
+  "modules-center": [],
   "modules-right": [
+    "clock",
 
     // Tray
     "pulseaudio",
